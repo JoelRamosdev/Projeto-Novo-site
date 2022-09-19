@@ -1,22 +1,21 @@
-[<strog>Mike Beedle uma Breve História do Agile<strong/>](https://www.zentao.pm/blog/a-brief-history-of-agile-mike-beedle-tragic-loss-to-the-scrum-community-1086.html)
-:---:
+[Mike Beedle: Uma Breve História do Agile](https://www.zentao.pm/blog/a-brief-history-of-agile-mike-beedle-tragic-loss-to-the-scrum-community-1086.html)
+
 <div Mike Beedle="center">
 <img src="https://user-images.githubusercontent.com/112489062/191096064-56b1eed9-ff06-4082-8938-ae93b2743ca5.jpg" width="200px" />
 </div>
-:---:
+
 
 Mike (Miguel) Beedle foi um físico teórico americano que se tornou engenheiro de software e co-autor do Manifesto Ágil. Ele foi o coautor do primeiro livro e dos primeiros artigos sobre Scrum . Mais tarde, ele cunhou o termo "Enterprise Scrum", desenvolveu suas ideias em uma abordagem baseada em telas e promoveu o Enterprise Scrum como uma estrutura para dimensionar as práticas e os benefícios do Scrum em organizações inteiras.
 
 [Manifesto Ágil](https://www.objective.com.br/insights/manifesto-agil/#:~:text=12%20princ%C3%ADpios%20do%20Manifesto%20%C3%81gil&text=%E2%80%9CNossa%20maior%20prioridade%20%C3%A9%20satisfazer,vantagem%20competitiva%20para%20o%20cliente%E2%80%9D)
----
+
 Em 2001 Beedle foi uma das dezassete pessoas que criaram e assinaram o Manifesto para Desenvolvimento o Ágil de Software. Ele havia sido convidado por Martin Fowler e Robert Martin por causa de seu envolvimento na adoção inicial do Scrum e na comunidade de padrões organizacionais. Beedle foi um dos primeiros a seguir a implementação do Scrum depois de Jeff Sutherland e Ken Schwaber, e colaborou na escrita do artigo sobre padrões Scrum, que foi o artigo publicado sobre Scrum. O podcast Agile Uprising publicou uma entrevista com Beedle da estação de esqui Snowbird, onde colaborou na criação do Agile Manifesto. Beedle lembrou que havia proposto o termo "Agile" que acabou sendo filtrado por um processo de seleção com outros signatários:
 
 "Praticar essa palavra.Agile estava dizendo que estava dizendo, porque estava certo com o livro Agile Competitors and Virtual Organisations Propusemos Adaptive Essential, Lean and Light. Lean já havia sido escolhido. Ninguém queria ser um peso leve. Fizemos isso no final segundo dia e levou apenas alguns minutos para decidir sobre isso."
 
 Scrum
----
-Ele foi o segundo a adotar o Scrum e foi elaborado para o desenvolvimento do framework implementando em empresas e treinando outras organizações na mesma.
 
+Ele foi o segundo a adotar o Scrum e foi elaborado para o desenvolvimento do framework implementando em empresas e treinando outras organizações na mesma
 A principal trás o Scrum era criar uma equipe que se assemelha à vida artificial, um robô ou um sistema adaptativo, que se adapta e aprende através da “inteligência social”. Mike Beedle tinha um Ph. D. em Física, e sua tese de mestrado era sobre sistemas caóticos e não lineares. Esses dois conceitos foram sobre "criar uma equipe à beira do caos" Ken Schwaber, Jeff e Mike Beedle. Ambas fazem como criar o jogo um sistema apontavam para o mesmo sistema: uma equipe hiperprodutiva que funciona como um sistema adaptativo à beira meio de padrões.
 
 Em 2001, Beedle trabalhou com Ken Schwaber para descrever o método no livro Agile Software Development with Scrum . A abordagem do Scrum para planejar e gerenciar o desenvolvimento de produtos envolve trazer a autoridade de tomada de decisão para o das propriedades e certezas da operação.
