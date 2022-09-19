@@ -1,4 +1,10 @@
 # Mike Beedle
+
+<div Mike Beedle="center">
+<img src="https://user-images.githubusercontent.com/112489062/191096064-56b1eed9-ff06-4082-8938-ae93b2743ca5.jpg" width="200px" />
+</div>
+
+
 Mike (Miguel) Beedle foi um físico teórico americano que se tornou engenheiro de software e co-autor do Manifesto Ágil. Ele foi o coautor do primeiro livro e dos primeiros artigos sobre Scrum . Mais tarde, ele cunhou o termo "Enterprise Scrum", desenvolveu suas ideias em uma abordagem baseada em telas e promoveu o Enterprise Scrum como uma estrutura para dimensionar as práticas e os benefícios do Scrum em organizações inteiras.
 
 ### Manifesto Ágil
