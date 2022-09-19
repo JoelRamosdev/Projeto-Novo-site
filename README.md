@@ -1,19 +1,19 @@
-H1 [<strog>Mike Beedle<strong/>](https://www.zentao.pm/blog/a-brief-history-of-agile-mike-beedle-tragic-loss-to-the-scrum-community-1086.html)
-
+[<strog>Mike Beedle uma Breve História do Agile<strong/>](https://www.zentao.pm/blog/a-brief-history-of-agile-mike-beedle-tragic-loss-to-the-scrum-community-1086.html)
+:---:
 <div Mike Beedle="center">
 <img src="https://user-images.githubusercontent.com/112489062/191096064-56b1eed9-ff06-4082-8938-ae93b2743ca5.jpg" width="200px" />
 </div>
-
+:---:
 
 Mike (Miguel) Beedle foi um físico teórico americano que se tornou engenheiro de software e co-autor do Manifesto Ágil. Ele foi o coautor do primeiro livro e dos primeiros artigos sobre Scrum . Mais tarde, ele cunhou o termo "Enterprise Scrum", desenvolveu suas ideias em uma abordagem baseada em telas e promoveu o Enterprise Scrum como uma estrutura para dimensionar as práticas e os benefícios do Scrum em organizações inteiras.
 
-H3 [Manifesto Ágil](https://www.objective.com.br/insights/manifesto-agil/#:~:text=12%20princ%C3%ADpios%20do%20Manifesto%20%C3%81gil&text=%E2%80%9CNossa%20maior%20prioridade%20%C3%A9%20satisfazer,vantagem%20competitiva%20para%20o%20cliente%E2%80%9D)
+[Manifesto Ágil](https://www.objective.com.br/insights/manifesto-agil/#:~:text=12%20princ%C3%ADpios%20do%20Manifesto%20%C3%81gil&text=%E2%80%9CNossa%20maior%20prioridade%20%C3%A9%20satisfazer,vantagem%20competitiva%20para%20o%20cliente%E2%80%9D)
 ---
 Em 2001 Beedle foi uma das dezassete pessoas que criaram e assinaram o Manifesto para Desenvolvimento o Ágil de Software. Ele havia sido convidado por Martin Fowler e Robert Martin por causa de seu envolvimento na adoção inicial do Scrum e na comunidade de padrões organizacionais. Beedle foi um dos primeiros a seguir a implementação do Scrum depois de Jeff Sutherland e Ken Schwaber, e colaborou na escrita do artigo sobre padrões Scrum, que foi o artigo publicado sobre Scrum. O podcast Agile Uprising publicou uma entrevista com Beedle da estação de esqui Snowbird, onde colaborou na criação do Agile Manifesto. Beedle lembrou que havia proposto o termo "Agile" que acabou sendo filtrado por um processo de seleção com outros signatários:
 
 "Praticar essa palavra.Agile estava dizendo que estava dizendo, porque estava certo com o livro Agile Competitors and Virtual Organisations Propusemos Adaptive Essential, Lean and Light. Lean já havia sido escolhido. Ninguém queria ser um peso leve. Fizemos isso no final segundo dia e levou apenas alguns minutos para decidir sobre isso."
 
-H3 Scrum
+Scrum
 ---
 Ele foi o segundo a adotar o Scrum e foi elaborado para o desenvolvimento do framework implementando em empresas e treinando outras organizações na mesma.
 
@@ -27,11 +27,11 @@ Suas sobre ideias otimizam uma equipe do caos, evoluíram a organização de sua
 
 Mike Beedle e suas empresas incorporadas Scrum, Enterprise Scrum e Business Agility para consultoria de milhares de pessoas e milhares, aperfeiçoamento, orientação e coaching. Ele é o criador do framework Enterprise Scrum e foi o primeiro CEO a gerenciar uma empresa inteira de forma ágil usando o Enterprise Scrum. Ele foi palestrante principal em inúmeras conferências Agile e Scrum em todo o mundo.
 
-H3 Trabalhos
+Trabalhos
 ---
 SCRUM: Uma linguagem de padrão de extensão para desenvolvimento de software hiperprodutivo (o segundo artigo publicado sobre Scrum). Schwaber, Ken (1 de fevereiro de 2004). Schwaber, Ken; Beedle, Mike (18 de fevereiro de 2002). Desenvolvimento ágil de software com Scrum.
 
-H3 Morte
+Morte
 ---
 Beedle foi morto em Chicago em um assalto aparente. 
 Após sua morte, o criador do Scrum, Jeff Sutherland, postou: "A comunidade Scrum e Agile perdeu um gigante neste fim de semana. Mike Beedle foi um amigo próximo e inspiração para muitos de nós."  A Mike e Alliance disse: "Mike e suas empresas Scrum, Enterprise Scrum e empresas de agilidade, para centenas de milhares de pessoas e milhares de empresas, treinamento, consultoria de mentoring e coaching. Ele é o criador do Enterprise Scrum framework e foi o primeiro CEO a gerenciar uma empresa inteira de forma ágil usando Enterprise Scrum. Ele foi uma palestrante em inúmeras conferências Agile e Scrum em todo o mundo."
